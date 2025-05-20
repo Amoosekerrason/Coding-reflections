@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 
 I am a child corrupted by the internet. At first, my understanding of the word abstract was heavily influenced by the online world,I interpreted it as “something hard to understand.” But the true meaning of abstraction is the simplification of processes and the extraction of essential ideas.
 
