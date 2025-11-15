@@ -48,3 +48,7 @@ namespace BlahBlahBlah {
 ## Why This?
 
 I should have used this a long time ago… Why bother using time? This one can directly run based on conditions, and you can set when it starts and ends. Isn’t that great?
+
+## Plot Twist
+
+Looking back, the original timer approach was actually quite good. It just needed everything to be wrapped inside the if (timer == interval) condition. Otherwise, checking whether a "property" exists inside Update via a getter can be surprisingly costly. It's much more efficient to increment a timer and only run the logic when the time is up.
