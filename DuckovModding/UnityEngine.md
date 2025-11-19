@@ -35,3 +35,8 @@ public class MyClass
 
 }
 ```
+
+### Reflections
+
+I spent half a day—half a day!—just to get thermal imaging working! Reflection in C# feels a lot like casting in Unreal Engine. At its core, it allows the program to access an object at runtime through various means, and once it's correctly cast, you can inspect its properties, modify its contents, and invoke its methods.
+The most crucial step is that moment when you reach into the mirror to grasp a part of yourself—you need to be clear about which part you're reaching for, what state it's in, and what type it is.
